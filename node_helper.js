@@ -17,4 +17,4 @@ module.exports = NodeHelper.create({
       this.sendSocketNotification("HERE_IS_DATA", data.toString())   // pass the string, module expects string
     })
   }
-})
+}) 
